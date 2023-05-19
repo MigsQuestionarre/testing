@@ -1,0 +1,13 @@
+[
+  {
+    "odata.etag": "W/\u0022datetime\u00272023-05-17T02%3A39%3A17.1805208Z\u0027\u0022",
+    "Database": "User",
+    "Table": "TrLoginTransactionLog",
+    "Column": "IdUser",
+    "Executor": "0860005086",
+    "NewValue": "0860005086",
+    "Timestamp": "17/05/2023 02:39:17 \u002B00:00",
+    "PartitionKey": "[Id, f8dd38e9-778d-4389-b801-858b2b7626bd]",
+    "RowKey": "39142a0e-e5b1-4341-b77e-a0544b5855f9"
+  }
+]
